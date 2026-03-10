@@ -1,0 +1,78 @@
+{
+    "transactions": [
+        {
+            "type": "gasto",
+            "amount": 120000.0,
+            "category": "varios",
+            "description": "varios",
+            "date": "2025-10-22"
+        },
+        {
+            "type": "gasto",
+            "amount": 500000.0,
+            "category": "varios",
+            "description": "varios",
+            "date": "2025-10-22"
+        },
+        {
+            "type": "ingreso",
+            "amount": 1200000.0,
+            "category": "extra",
+            "description": "extra",
+            "date": "2025-10-22"
+        },
+        {
+            "type": "gasto",
+            "amount": 30000.0,
+            "category": "entretenimiento",
+            "description": "cine",
+            "date": "2025-10-22"
+        },
+        {
+            "type": "ingreso",
+            "amount": 10000.0,
+            "category": "alimentos",
+            "description": "varios",
+            "date": "2025-10-23"
+        },
+        {
+            "type": "gasto",
+            "amount": 700000.0,
+            "category": "salida",
+            "description": "extra",
+            "date": "2025-10-23"
+        },
+        {
+            "type": "ingreso",
+            "amount": 500000.0,
+            "category": "venta",
+            "description": "varios",
+            "date": "2025-10-23"
+        }
+    ],
+    "investments": [
+        {
+            "type": "acciones",
+            "name": "Galicia",
+            "amount": 5.0,
+            "purchase_price": 150000.0,
+            "current_price": 150000.0
+        }
+    ],
+    "debts": [
+        {
+            "name": "octubre 1",
+            "total_amount": 10000.0,
+            "monthly_payment": 50000.0,
+            "category": "préstamo",
+            "paid_amount": 0
+        },
+        {
+            "name": "maria",
+            "total_amount": 50000.0,
+            "monthly_payment": 500000.0,
+            "category": "préstamo",
+            "paid_amount": 0
+        }
+    ]
+}
