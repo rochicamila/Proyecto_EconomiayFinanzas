@@ -4,10 +4,10 @@ from charts import ChartFactory
 import theme
 
 dm = DataManager()
-charts = ChartFactory(dm)
+charts = ChartFactory(dm) 
 
 # =======================
-# Funciones auxiliares
+# Funciones aux
 # =======================
 
 def refresh_dashboard():
